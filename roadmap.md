@@ -1,0 +1,3 @@
+- [ ] Build responsive public pages and project detail with premium imagery.
+- [ ] Build frontend-only admin login and editable CMS demo with localStorage.
+- [ ] Verify public and admin flows on desktop and mobile.
